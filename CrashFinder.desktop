@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=CrashFinder
+Comment=Runs a script to help locate crashes
+Exec=/usr/bin/gnome-terminal -e "/opt/CrashFinder/CrashFinder.sh"
+Terminal=true
+X-MultipleArgs=false
+Type=Application
+Icon=/opt/CrashFinder/CrashFinder.png
+Categories=GNOME;GTK;Development;
